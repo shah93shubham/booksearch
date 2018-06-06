@@ -1,0 +1,6 @@
+wordpress & database setup- 5 minutes
+create custom post type- 30 minutes
+create custom taxonomies- 30 minutes
+create custom fields- 30 minutes
+create shortcode- 30 minutes
+Research work- 3 hour
